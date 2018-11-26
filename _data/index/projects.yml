@@ -5,18 +5,19 @@
   i18n: jalpc
   gh_user: sebagomez
   repo: azurestorageexplorer
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/SSIS-Azure-Cloud-Storage-Task.png
   desc: Manage your Azure Storage blobs, tables and queues from https://azurestorage.azurewebsites.net/
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: VSProlog
+  i18n: VSProlog
+  gh_user: sebagomez
+  repo: vsprolog
+  img: /static/assets/img/landing/VSProlog.png
+  desc: Visual Studio extension that enables syntax coloring for Prolog
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: shelltwit
+  i18n: shelltwit
+  gh_user: sebagomez
+  repo: shelltwit
+  img: /static/assets/img/landing/shelltwit.png
+  desc: Command line twiiter client. Because, why not?

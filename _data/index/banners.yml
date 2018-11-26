@@ -2,8 +2,14 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
-  title: first banner image
+- src: landing/DSC_0182.jpg
+  title: Isla de Lobos, Punta del Este, Uruguay
 
-- src: landing/header_two.jpg
-  title: second banner image
+- src: landing/D7K_4677.jpg
+  title: Punta del Este, Uruguay
+
+- src: landing/DSC_0621.jpg
+  title: Punta del Este, Uruguay
+
+- src: landing/DSC_1632.jpg
+  title: Isla de Gorriti y Punta del Este, Uruguay

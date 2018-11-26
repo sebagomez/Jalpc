@@ -15,15 +15,57 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Plusvalia Labs
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Solution architect, technical consultant for Entity Framework and WCF RIA Services
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Nov. 2010 - Nov. 2012
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Chief Technical Advisor
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Poder Judicial del Uruguay (Judiciary of Uruguay)
+    i18n: company_b
+  desc:
+    detail: I designed and lead the team that implemented many of the new systems for the administrative branch of Judiciary of Uruguay.
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2003 - Jun. 2006
+    i18n: company_b_date
+  job:
+    detail: Team Lead
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Security Advisor
+    i18n: company_b
+  desc:
+    detail: I designed and implemented the security infrastructure for many national and international firms. Most of them banks and finnancial institutions.
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2001 - Aug. 2002
+    i18n: company_b_date
+  job:
+    detail: Security Administrator
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: ST Consultores
+    i18n: company_b
+  desc:
+    detail: I helped create the tests, prepare the data and execute the test, reporting to the program manager the outcome..
+    i18n: company_b_desc
+  date:
+    detail: Jun. 1999 - Dec. 2000
+    i18n: company_b_date
+  job:
+    detail: Tester
     i18n: company_b_job
   icon: fa-plus-square
