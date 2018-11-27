@@ -4,10 +4,10 @@
 title: sebagomez
 description: Seba Gomez's blog,use Jekyll and github pages.
 keywords: SebaGomez,Jalpc,Jekyll,github,gh-pages
-baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://sebagomez.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
+# baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://sebagomez.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -37,7 +37,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-#  id: UA-93473370-3
+  id: UA-129895029-1
 
 ## google optimize
 go:
