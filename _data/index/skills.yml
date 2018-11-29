@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C#, JavaScript, Microsoft Azure, Amazon Web Services, MSBuild, SQL, NoSQL, Running, Soft
-percentage: 90, 70, 80, 65, 90, 85, 50, 100, 85
+aspects: .NET (C# - .NET Core), Javascript (Angular - ReactJS), Cloud (AWS - Bluemix - Azure), MSBuild, Linux, SQL, NoSQL, Running, Soft
+percentage: 90, 70, 80, 90, 50,85, 50, 100, 90
