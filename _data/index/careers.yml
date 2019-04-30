@@ -18,13 +18,13 @@
     detail: Plusvalia Labs
     i18n: company_b
   desc:
-    detail: Solution architect, technical consultant for Entity Framework and WCF RIA Services
+    detail: Designed the architecture of a core system for a high profile international organization. In charge of evaluating different emerging technologies for client/server communication. 
     i18n: company_b_desc
   date:
     detail: Nov. 2010 - Nov. 2012
     i18n: company_b_date
   job:
-    detail: Chief Technical Advisor
+    detail: Software Architect & Tech Evangelist
     i18n: company_b_job
   icon: fa-plus-square
 
