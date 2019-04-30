@@ -5,6 +5,3 @@ _site
 .DS_Store
 node_modules
 npm-debug.log
-
-docker-run.cmd
-deploy.cmd
