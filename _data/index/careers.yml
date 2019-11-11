@@ -4,7 +4,7 @@
     detail: Genexus
     i18n: company_a
   desc:
-    detail: I work at GeneXus on new ways of generating code, improving the whole generation process by at leat 20%. I'm also helping our customers deploy their apps to every Cloud Provider with just a single click. 
+    detail: I work at GeneXus on new ways of generating code, improving the whole generation process by at least 20%. I'm also helping our customers deploy their apps to every Cloud Provider with just a single click. 
     i18n: company_a_desc
   date:
     detail: Jun. 2006
