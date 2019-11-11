@@ -1,7 +1,12 @@
+---
+layout: humans
+permalink: '/humans.txt'
+---
+
 /* TEAM */
-	Me: Sebastián Gómez
-	Contact: sebastiangomezcorrea [at] Google Email Service, you know, the one that starts with a G
-	Twitter: @sebagomez
+	Me: {{ site.author.first_name }} {{ site.author.last_name }}
+	Contact: {{ site.author.email }}
+	Twitter: @{{ site.author.twitter_username }}
 	From:Montevideo, Uruguay
 
 /* THANKS */
@@ -10,7 +15,7 @@
 	https://github.com/jarrekk/Jalpc
 
 /* SITE */
-	Last update:11/11/2019
+	Last update: {{ site.time | date: "%Y/%m/%d" }}
 	Language: English
 	Doctype:HTML5
 	IDE: VSCode
