@@ -1,5 +1,5 @@
 /* TEAM */
-	Sebastián Gómez
+	Me: Sebastián Gómez
 	Contact: sebastiangomezcorrea [at] Google Email Service, you know, the one that starts with a G
 	Twitter: @sebagomez
 	From:Montevideo, Uruguay
@@ -10,9 +10,9 @@
 	https://github.com/jarrekk/Jalpc
 
 /* SITE */
-	Last update:
+	Last update:11/11/2019
 	Language: English
 	Doctype:HTML5
 	IDE: VSCode
 	Using Jekyll and Docker
-	More info: https://medium.com/@sebagomez/setting-up-a-github-page-with-jekyll-and-a-docker-container-c712e448649b
+	More info: https://dev.to/sebagomez/setting-up-a-github-page-with-jekyll-and-a-docker-container-56pb
