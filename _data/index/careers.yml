@@ -1,19 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Container Solutions
+    i18n: company_a
+  desc:
+    detail: Design and develop cloud native applications and platforms. 
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2020
+    i18n: company_a_date
+  job:
+    detail: Cloud Native Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Genexus
     i18n: company_a
   desc:
     detail: I work at GeneXus on new ways of generating code, improving the whole generation process by at least 20%. I'm also helping our customers deploy their apps to every Cloud Provider with just a single click. 
     i18n: company_a_desc
   date:
-    detail: Jun. 2006
+    detail: Jun. 2006 - Aug. 2020
     i18n: company_a_date
   job:
     detail: Sr. Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 - name:
     detail: Plusvalia Labs
