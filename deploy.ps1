@@ -1,0 +1,1 @@
+Copy-Item -Path ./_site/* -Destination ../github.io -Recurse -Force -Exclude *.ps1,*.cmd
